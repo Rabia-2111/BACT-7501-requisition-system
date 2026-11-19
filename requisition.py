@@ -112,4 +112,4 @@ class Requisitionsystem:
         print(f"The total number of approved requisitions: {self.total_approved}")
         print(f"The total number of pending requisitions: {self.total_pending}")
         print(f"The total number of not approved requisitions: {self.total_not_approved}")
-        #commit 3 update
+        #commit 2 update
